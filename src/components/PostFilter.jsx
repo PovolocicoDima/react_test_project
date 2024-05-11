@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
-import MyInput from '../UI/MyInput/MyInput';
-import MySelect from '../UI/MySelect/MySelect';
+import MyInput from './UI/MyInput/MyInput';
+import MySelect from './UI/MySelect/MySelect';
 
 const PostFilter = ({ filter, setFilter }) => {
   return (
